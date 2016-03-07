@@ -1,4 +1,13 @@
-diff -up aseqjoy-0.0.1.orig/aseqjoy.1.in aseqjoy-0.0.1/aseqjoy.1.in
+Description: fix lintian manpage spell warning
+ Just a misspell fix for manpage
+Author: Fernando Toledo <ragnarok@docksud.com.ar>
+
+---
+The information above should follow the Patch Tagging Guidelines, please
+checkout http://dep.debian.net/deps/dep3/ to learn about the format. Here
+are templates for supplementary fields that you might want to add:
+
+
 --- aseqjoy-0.0.1.orig/aseqjoy.1.in	2003-03-28 15:22:15.000000000 -0300
 +++ aseqjoy-0.0.1/aseqjoy.1.in	2016-03-06 21:47:07.200737441 -0300
 @@ -17,7 +17,7 @@ creates and output port named after joys
