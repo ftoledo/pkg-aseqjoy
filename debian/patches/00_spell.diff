@@ -1,0 +1,12 @@
+diff -up aseqjoy-0.0.1.orig/aseqjoy.1.in aseqjoy-0.0.1/aseqjoy.1.in
+--- aseqjoy-0.0.1.orig/aseqjoy.1.in	2003-03-28 15:22:15.000000000 -0300
++++ aseqjoy-0.0.1/aseqjoy.1.in	2016-03-06 21:47:07.200737441 -0300
+@@ -17,7 +17,7 @@ creates and output port named after joys
+ input port of your choice.
+ 
+ \fBNote:\fR Some joysticks may have to be calibrated (with \fBjscal\fR) before 
+-they can be used efficently. 
++they can be used efficiently. 
+ .SH OPTIONS
+ .TP
+ \fB\-h\fR

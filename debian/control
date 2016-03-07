@@ -3,7 +3,7 @@ Section: sound
 Priority: optional
 Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
 Build-Depends: debhelper (>= 9), libasound2-dev
-Standards-Version: 3.9.6
+Standards-Version: 3.9.7
 Homepage: https://terminatorx.org/addons
 Vcs-Git: https://github.com/ftoledo/pkg-aseqjoy.git
 Vcs-Browser: https://github.com/ftoledo/pkg-aseqjoy
