@@ -11,6 +11,7 @@ Vcs-Browser: https://github.com/ftoledo/pkg-aseqjoy
 Package: aseqjoy
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
+Suggests: alsa-utils, joystick
 Description: Joystick to ALSA MIDI Sequencer Converter
  In fact it’s a really tiny piece of software that turns a joystick into a MIDI 
  controller for the ALSA sequencer infrastructure. 
