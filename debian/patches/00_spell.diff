@@ -8,10 +8,10 @@ checkout http://dep.debian.net/deps/dep3/ to learn about the format. Here
 are templates for supplementary fields that you might want to add:
 
 
---- aseqjoy-0.0.1.orig/aseqjoy.1.in	2003-03-28 15:22:15.000000000 -0300
-+++ aseqjoy-0.0.1/aseqjoy.1.in	2016-03-06 21:47:07.200737441 -0300
-@@ -17,7 +17,7 @@ creates and output port named after joys
- input port of your choice.
+--- aseqjoy-0.0.2.orig/aseqjoy.1.in 2016-05-07 08:02:55.000000000 -0300
++++ aseqjoy-0.0.2/aseqjoy.1.in  2016-05-09 15:30:50.630670060 -0300
+@@ -20,7 +20,7 @@ creates and output port named after joys
+ instance to an input port of your choice.
  
  \fBNote:\fR Some joysticks may have to be calibrated (with \fBjscal\fR) before 
 -they can be used efficently. 
@@ -19,3 +19,4 @@ are templates for supplementary fields that you might want to add:
  .SH OPTIONS
  .TP
  \fB\-h\fR
+
