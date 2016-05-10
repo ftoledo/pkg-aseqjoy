@@ -9,7 +9,7 @@ are templates for supplementary fields that you might want to add:
 
 
 --- aseqjoy-0.0.2.orig/aseqjoy.1.in 2016-05-07 08:02:55.000000000 -0300
-+++ aseqjoy-0.0.2/aseqjoy.1.in  2016-05-09 15:30:50.630670060 -0300
++++ aseqjoy-0.0.2/aseqjoy.1.in  2016-05-10 09:31:00.092336073 -0300
 @@ -20,7 +20,7 @@ creates and output port named after joys
  instance to an input port of your choice.
  
@@ -19,4 +19,12 @@ are templates for supplementary fields that you might want to add:
  .SH OPTIONS
  .TP
  \fB\-h\fR
-
+@@ -42,7 +42,7 @@ Select the MIDI controller ID for axis 0
+ Just like \fB\-0\fR this will set the controller IDs for axes 1, 2, 3.
+ .TP
+ \fB\-r\fR
+-Use fine MIDI control change messsages instead (14 bit insstead of 7 bit 
++Use fine MIDI control change messages instead (14 bit insstead of 7 bit 
+ resolution).
+ .SH OPERATION
+ After aseqjoy has started successfully all motion detected by the selected 
