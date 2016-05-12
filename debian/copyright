@@ -4,7 +4,12 @@ Source: https://terminatorx.org/addons/
 
 Files: *
 Copyright: 2010 Alexander Koenig <alex@lisas.de>
-           2016 Fernando Toledo <ragnarok@docksud.com.ar>
+License: GPL-2+
+
+Files: debian/*
+Copyright: 2016 Fernando Toledo <ragnarok@docksud.com.ar>
+License: GPL-2+
+
 License: GPL-2+
  This program is free software; you can redistribute it
  and/or modify it under the terms of the GNU General Public
