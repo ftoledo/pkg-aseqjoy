@@ -13,12 +13,12 @@ Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
 Suggests: alsa-utils, joystick
 Description: Joystick to ALSA MIDI Sequencer Converter
- In fact it’s a really tiny piece of software that turns a joystick into a MIDI 
- controller for the ALSA sequencer infrastructure. 
+ In fact it’s a really tiny piece of software that turns a joystick into a MIDI
+ controller for the ALSA sequencer infrastructure.
  .
- Its original purpose was to test the MIDI interface of terminatorX but that 
+ Its original purpose was to test the MIDI interface of terminatorX but that
  turned out to be fun, so it made it here in the hope that it could be useful
  for other experiments.
  .
- For a more detailed description on what it does and how to use it have a 
+ For a more detailed description on what it does and how to use it have a
  look the manpage.
