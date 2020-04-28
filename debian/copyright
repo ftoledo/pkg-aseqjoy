@@ -1,6 +1,7 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: aseqjoy
 Source: https://terminatorx.org/addons/
+Upstream-Contact: Fernando Toledo <ftoledo@docksud.com.ar>
 
 Files: *
 Copyright: 2010 Alexander Koenig <alex@lisas.de>
@@ -31,4 +32,3 @@ License: GPL-2+
  On Debian systems, the full text of the GNU General Public
  License version 2 can be found in the file
  '/usr/share/common-licenses/GPL-2'.
-
