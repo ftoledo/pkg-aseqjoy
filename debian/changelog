@@ -1,3 +1,9 @@
+aseqjoy (0.0.2-3) UNRELEASED; urgency=medium
+
+  * Update watch file format version to 4.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Sun, 27 Nov 2022 08:11:29 -0000
+
 aseqjoy (0.0.2-2) unstable; urgency=medium
 
   * Trim trailing whitespace.
